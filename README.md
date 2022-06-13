@@ -1,6 +1,6 @@
 <div class="cell markdown" id="HUgSnl70lgZo">
 
-# **Custom YOLOv4 detector (darknet library) using [Real-time YOLOv4 Object Detection on Webcam in Google Colab | Images and Video](https://https://www.youtube.com/watch?v=ebAykr9YZ30&t=634s&ab_channel=TheAIGuy) as reference.**
+# **Custom YOLOv4 detector (darknet library) using [Real-time YOLOv4 Object Detection on Webcam in Google Colab | Images and Video](https://www.youtube.com/watch?v=ebAykr9YZ30&t=634s&ab_channel=TheAIGuy) as reference.**
 
 <br />The implementation was done as follows:
 
